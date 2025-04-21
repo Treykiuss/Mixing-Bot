@@ -1,0 +1,3 @@
+python-telegram-bot==20.0
+pydub==0.25.1  # or any other audio libraries you're using
+ffmpeg  # If you're using ffmpeg for audio processing
